@@ -22,6 +22,6 @@ Functionalities:
 ---- ---- ----
 
   Designed and Developed By : Keshav Kabra
-			keshavkabra118@gmail.com
-			keshavkabra.official@gmail.com
-			+91-7014722936
+				keshavkabra118@gmail.com
+				keshavkabra.official@gmail.com
+				+91-7014722936
